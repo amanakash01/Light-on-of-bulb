@@ -1,1 +1,1 @@
-# Light-on-of-bulb
+# javascript-light-switch-project
